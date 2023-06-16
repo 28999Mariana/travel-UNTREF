@@ -316,11 +316,11 @@ nav ul li a{
 }
 
 .content2 img{
-    width: 1291px;
-    height: 400px;
+    width: 1300px;
+    height: 500px;
     border-radius: 20px;
     filter:brightness(-100);
-    margin-left: 2%;
+    margin-left: 1.8%;
     margin-top: 1%;
 }
 
